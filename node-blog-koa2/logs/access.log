@@ -1,0 +1,4 @@
+::ffff:127.0.0.1 - - [10/May/2022:01:29:36 +0000] "GET /api/blog/list HTTP/1.0" 200 2015 "http://localhost:8083/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+::1 - - [10/May/2022:01:29:37 +0000] "GET /api/blog/detail?id=12 HTTP/1.0" 200 589 "http://localhost:8083/detail.html?id=12" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+::ffff:127.0.0.1 - - [10/May/2022:01:29:42 +0000] "GET /api/blog/detail?id=6 HTTP/1.0" 200 175 "http://localhost:8083/detail.html?id=6" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+::1 - - [10/May/2022:01:35:40 +0000] "GET /api/blog/list HTTP/1.0" 200 2015 "http://localhost:8083/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
